@@ -1,0 +1,8 @@
+ID,Status,Date retrieved,Saved file / location
+D30,Cleaned,2026-10-22,"data/macro_controls/clean/fed_h15.csv (RIFSPFF_N.D = DFF, RIFSPFF_N.M = FEDFUNDS, from the Board's H.15 package; FRED blocked for scripts); data/macro_controls/clean/nyfed_effr.csv (cross-check); data/macro_controls/clean/wu_xia.csv (shadow rate, ends 2022-02); raw data/macro_controls/raw/fed_h15/, nyfed_effr/, wu_xia/"
+D31,Cleaned,2026-10-22,"data/macro_controls/clean/bauer_swanson.csv (FOMC surprises 1988-02..2019-12 + monthly SVAR data); data/macro_controls/clean/jarocinski_karadi.csv (updated monthly); raw data/macro_controls/raw/bauer_swanson/, jarocinski_karadi/ (+ vintages/)"
+D32,Cleaned,2026-10-22,"data/macro_controls/clean/bls_cpi.csv (CUSR0000SA0 = CPIAUCSL, CUSR0000SA0L1E = CPILFESL, + NSA and energy; BLS public API v1, no key); raw data/macro_controls/raw/bls_cpi/"
+D33,Cleaned,2026-10-22,data/macro_controls/clean/world_bank_inflation.csv (monthly + quarterly indices) and world_bank_inflation_annual.csv (annual rates + Aggregate); raw data/macro_controls/raw/world_bank_inflation/Inflation-data.xlsx (+ vintages/)
+D34,Cleaned,2026-10-22,"data/macro_controls/clean/baumeister_wip.csv (WIP 1958-01.., GECON 1973-02..) and baumeister_wip_vintages.csv; raw data/macro_controls/raw/baumeister/ (+ vintages/)"
+D35,Cleaned,2026-10-22,data/macro_controls/clean/dallasfed_igrea.csv (Dallas Fed igrea.xlsx = FRED IGREA); raw data/macro_controls/raw/dallasfed_igrea/ (+ vintages/)
+D36,Cleaned,2026-10-22,"data/macro_controls/clean/epu.csv (global, all-country, US news/legacy/daily, China SCMP + mainland) and wui.csv (World Uncertainty Index); raw data/macro_controls/raw/epu/, wui/"

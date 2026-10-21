@@ -118,7 +118,7 @@ def ofac_monthly_counts(**filters) -> pd.DataFrame:
 
 
 def sdn(sdn_type: str | Iterable[str] | None = None, program_contains: str | None = None) -> pd.DataFrame:
-    """Current SDN list snapshot. sdn_type e.g. "individual", "Entity", "vessel", "aircraft"."""
+    """Current SDN list snapshot. sdn_type "individual", "vessel", "aircraft"; entities carry a blank type in the source."""
     df = _filtered("sdn", sdn_type=sdn_type)
     if program_contains:
         df = df[df["program"].fillna("").str.contains(program_contains, case=False, regex=False)].reset_index(drop=True)

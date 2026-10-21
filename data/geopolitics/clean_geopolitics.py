@@ -307,8 +307,12 @@ def clean_ofac_sdn(m: dict, src: str = "ofac") -> pd.DataFrame | None:
         return None
     df = pd.read_csv(p, header=None, names=SDN_COLS, dtype=str, keep_default_na=False, encoding="utf-8", encoding_errors="replace")
     check(src + "_sdn", "12 columns as documented (sdn.csv layout)", df.shape[1] == 12, f"{df.shape}")
-    df = df.replace({"-0-": ""})
-    df["ent_num"] = pd.to_numeric(df["ent_num"], errors="coerce")
+    df = df.apply(lambda s: s.str.strip())
+    num = pd.to_numeric(df["ent_num"], errors="coerce")
+    blank = num.isna() & (df.drop(columns="ent_num") == "").all(axis=1)   # trailing terminator row(s)
+    info(src + "_sdn", "blank trailing rows dropped", f"{int(blank.sum())} (first column {df.loc[blank, 'ent_num'].map(repr).tolist()[:3]})")
+    df = df[~blank].replace({"-0-": ""})       # "-0-" is OFAC's null token
+    df["ent_num"] = num[~blank]
     check(src + "_sdn", "ent_num numeric and unique", df["ent_num"].notna().all() and not df["ent_num"].duplicated().any(),
           f"{df['ent_num'].isna().sum()} non-numeric, {df['ent_num'].duplicated().sum()} duplicates")
     check(src + "_sdn", "plausible size (> 10,000 entries)", len(df) > 10_000, f"{len(df):,} entries")

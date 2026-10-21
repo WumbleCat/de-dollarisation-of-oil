@@ -1,0 +1,200 @@
+file,tracker_ids,series_key,first,last,n_obs,n_missing
+gpr.csv,D37,D | GPRD,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,D | GPRD_ACT,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,D | GPRD_MA30,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,D | GPRD_MA7,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,D | GPRD_THREAT,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,D | N10D,1985-01-01,2026-10-19,15267,0
+gpr.csv,D37,M | GPR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_ARG,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_AUS,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_BEL,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_BRA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_CAN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_CHE,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_CHL,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_CHN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_COL,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_DEU,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_DNK,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_EGY,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_ESP,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_FIN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_FRA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_GBR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_HKG,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_HUN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_IDN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_IND,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_ISR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_ITA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_JPN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_KOR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_MEX,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_MYS,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_NLD,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_NOR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_PER,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_PHL,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_POL,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_PRT,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_RUS,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_SAU,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_SWE,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_THA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_TUN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_TUR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_TWN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_UKR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_USA,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_VEN,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_VNM,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRC_ZAF,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPRH,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_ARG,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_AUS,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_BEL,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_BRA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_CAN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_CHE,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_CHL,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_CHN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_COL,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_DEU,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_DNK,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_EGY,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_ESP,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_FIN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_FRA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_GBR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_HKG,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_HUN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_IDN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_IND,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_ISR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_ITA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_JPN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_KOR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_MEX,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_MYS,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_NLD,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_NOR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_PER,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_PHL,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_POL,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_PRT,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_RUS,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_SAU,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_SWE,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_THA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_TUN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_TUR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_TWN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_UKR,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_USA,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_VEN,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_VNM,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHC_ZAF,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRHT,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRH_AND,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRH_BASIC,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRH_NOEW,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | GPRT,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPR_AND,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPR_BASIC,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | GPR_NOEW,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | N10,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | N3H,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_1,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_2,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_3,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_4,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_5,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_6,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_7,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHAREH_CAT_8,1900-01-01,2026-09-01,1521,0
+gpr.csv,D37,M | SHARE_GPR,1985-01-01,2026-09-01,501,0
+gpr.csv,D37,M | SHARE_GPRH,1900-01-01,2026-09-01,1521,0
+ofac_recent_actions.csv,D39,Enforcement Actions,2003-04-04,2026-10-13,297,0
+ofac_recent_actions.csv,D39,General Licenses,2002-12-27,2026-10-16,272,0
+ofac_recent_actions.csv,D39,Miscellaneous,2001-06-27,2026-06-29,183,0
+ofac_recent_actions.csv,D39,Regulations and Guidance,2001-01-10,2026-09-29,501,0
+ofac_recent_actions.csv,D39,Sanctions List Updates,2001-01-19,2026-10-21,1925,0
+ofac_sdn.csv,D39,,,,10042,0
+ofac_sdn.csv,D39,aircraft,,,342,0
+ofac_sdn.csv,D39,individual,,,7519,0
+ofac_sdn.csv,D39,vessel,,,1568,0
+baumeister_hamilton.csv,D40,economic_activity_shocks,1975-02-01,2026-06-01,617,0
+baumeister_hamilton.csv,D40,oecd_6nme_industrial_production,1958-01-01,2026-07-01,823,0
+baumeister_hamilton.csv,D40,oil_consumption_demand_shocks,1975-02-01,2026-06-01,617,0
+baumeister_hamilton.csv,D40,oil_inventory_demand_shocks,1975-02-01,2026-06-01,617,0
+baumeister_hamilton.csv,D40,oil_supply_shocks,1975-02-01,2026-06-01,617,0
+kanzig.csv,D41,full | D | surprise_10m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_11m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_12m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_1m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_2m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_3m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_4m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_5m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_6m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_7m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_8m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_9m,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_front,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | D | surprise_pc,1983-07-19,2025-12-01,169,0
+kanzig.csv,D41,full | M | monthly_surprise,1975-01-01,2025-12-01,612,0
+kanzig.csv,D41,full | M | news_shock,1975-01-01,2025-12-01,612,0
+kanzig.csv,D41,pre_covid | D | surprise_10m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_11m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_12m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_1m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_2m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_3m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_4m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_5m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_6m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_7m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_8m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_9m,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_front,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | D | surprise_pc,1983-07-19,2019-12-06,123,0
+kanzig.csv,D41,pre_covid | M | monthly_surprise,1975-01-01,2019-12-01,540,0
+kanzig.csv,D41,pre_covid | M | news_shock,1975-01-01,2019-12-01,540,0
+portwatch_chokepoints.csv,D42,Bab el-Mandeb Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Balabac Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Bering Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Bohai Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Bosporus Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Cape of Good Hope,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Dover Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Gibraltar Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Kerch Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Korea Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Lombok Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Luzon Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Magellan Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Makassar Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Malacca Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Mindoro Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Mona Passage,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Ombai Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Oresund Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Panama Canal,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Strait of Hormuz,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Suez Canal,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Sunda Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Taiwan Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Torres Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Tsugaru Strait,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Windward Passage,2019-01-01,2026-10-18,2848,0
+portwatch_chokepoints.csv,D42,Yucatan Channel,2019-01-01,2026-10-18,2848,0
+portwatch_disruptions.csv,D42,DR,2018-10-21,2019-03-21,4,0
+portwatch_disruptions.csv,D42,EQ,2019-05-06,2026-08-14,32,0
+portwatch_disruptions.csv,D42,FL,2019-03-09,2025-09-23,14,0
+portwatch_disruptions.csv,D42,OT,2023-11-03,2026-03-01,5,0
+portwatch_disruptions.csv,D42,TC,2019-03-09,2026-07-01,72,0
+portwatch_disruptions.csv,D42,VO,2021-05-23,2021-12-20,2,0
+portwatch_disruptions.csv,D42,WF,2023-02-02,2026-07-22,3,0

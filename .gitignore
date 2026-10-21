@@ -1,0 +1,18 @@
+# environment / IDE
+.venv/
+.idea/
+.env
+__pycache__/
+*.egg-info/
+
+# Excel lock files
+~$*
+
+# bulky pipeline outputs (regenerate with the download_*/clean_* scripts; keep code, READMEs and CHECKS.md)
+data/*/raw/**
+!data/*/raw/*/
+!data/*/raw/*/README.md
+data/jodi/balances/*/*.csv
+data/jodi/clean/
+data/fundamentals/clean/*.csv
+data/currency_markets/clean/*.csv

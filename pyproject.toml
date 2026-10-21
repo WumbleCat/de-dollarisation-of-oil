@@ -1,0 +1,13 @@
+[project]
+name = "bristolpy"
+version = "0.1.0"
+description = "Built-in data library for the oil de-dollarisation project: typed access to the cleaned JODI and fundamentals data sets."
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.0"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["bristolpy"]

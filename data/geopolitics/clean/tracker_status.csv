@@ -1,0 +1,7 @@
+ID,Status,Date retrieved,Saved file / location
+D37,Cleaned,2026-10-22,data/geopolitics/clean/gpr.csv (raw: data/geopolitics/raw/)
+D38,Blocked / unavailable,,"GSDB is released by e-mail request only; site unreachable: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>. Steps in data/geopolitics/raw/gsdb/README.md"
+D39,Cleaned,2026-10-22,data/geopolitics/clean/ofac_recent_actions.csv; data/geopolitics/clean/ofac_sdn.csv (raw: data/geopolitics/raw/)
+D40,Cleaned,2026-10-22,data/geopolitics/clean/baumeister_hamilton.csv (raw: data/geopolitics/raw/)
+D41,Cleaned,2026-10-22,data/geopolitics/clean/kanzig.csv (raw: data/geopolitics/raw/)
+D42,Cleaned,2026-10-22,data/geopolitics/clean/portwatch_chokepoints.csv; data/geopolitics/clean/portwatch_disruptions.csv (raw: data/geopolitics/raw/)

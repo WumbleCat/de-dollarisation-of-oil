@@ -1,0 +1,7 @@
+# bulky pipeline outputs (regenerate with download_geopolitics.py / clean_geopolitics.py);
+# the root .gitignore already covers data/*/raw/ - this file makes the folder self-contained
+raw/
+clean/*.csv
+!clean/series_catalog.csv
+!clean/tracker_status.csv
+__pycache__/

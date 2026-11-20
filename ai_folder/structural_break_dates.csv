@@ -1,0 +1,38 @@
+break_date,break_type,relationship,method,bandwidths,G_left,G_right,p_value,jump
+2006-07-28,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,0.0002176790689876,0.5606193999820996
+2006-07-28,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,0.0002176790689876,0.5606193999820996
+2007-09-17,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",126,252,0.0001507722158573,0.6855782572089202
+2008-03-11,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,3.14315458882497e-07,0.7887079454867612
+2008-08-28,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,126,1.4247268545597436e-05,0.7770925870502562
+2009-09-02,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,0.0001977166881457,0.563974096845159
+2009-09-02,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,0.0001977166881457,0.563974096845159
+2012-04-16,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,0.0001146251134336,0.5829873708790347
+2012-04-16,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,0.0001146251134336,0.5829873708790347
+2013-09-03,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",126,252,8.194073484668607e-05,0.7092322381373244
+2014-08-28,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",126,252,5.824034809975842e-09,1.079738919263186
+2014-09-16,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",126,126,2.722073052408014e-06,0.9827008258269112
+2020-02-20,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",126,126,6.199489555869242e-05,0.8427015317151132
+2022-01-06,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,5.392986243357711e-06,0.6895819335564024
+2022-02-22,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,126,9.434316146494924e-05,0.70376494841365
+2023-04-18,DXY volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,0.0001282345245138,0.5790745602695738
+2023-04-18,DXY volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,0.0001282345245138,0.5790745602695739
+2008-09-12,WTI volatility,False,multiscale bottom-up,"[63, 126, 252]",126,126,1.6730760110661438e-07,1.1076340608776218
+2008-09-12,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",126,126,1.6730760110661438e-07,1.1076340608776216
+2009-04-13,WTI volatility,False,multiscale bottom-up,"[63, 126, 252]",126,126,9.04653113198428e-07,1.0320413215195237
+2009-04-13,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",126,126,9.04653113198428e-07,1.032041321519524
+2009-09-24,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",252,126,1.2874305977961242e-06,0.8703388542883678
+2014-10-21,WTI volatility,False,multiscale bottom-up,"[63, 126, 252]",126,126,4.731885772102373e-08,1.1642003719212477
+2014-11-12,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,3.4813685267920386e-10,1.0260403028179808
+2014-11-25,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",126,63,4.79804574737841e-07,1.2595715935185845
+2016-12-02,WTI volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,6.637893252836591e-07,0.7626377730880992
+2016-12-02,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,6.637893252836591e-07,0.7626377730880993
+2020-02-26,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",252,63,6.4368130492376e-07,1.1313866535158297
+2026-02-26,WTI volatility,False,multiscale bottom-up,"[63, 126, 252]",252,252,1.81073917004948e-06,0.7276414848728604
+2026-02-26,WTI volatility,False,multiscale localised pruning,"[63, 126, 252]",252,252,1.81073917004948e-06,0.7276414848728604
+2007-09-04,WTI-DXY correlation,True,multiscale bottom-up,"[252, 504, 756]",756,756,0.0007505155593857,0.3075750982294562
+2023-07-14,WTI-DXY correlation,True,multiscale localised pruning,"[252, 504, 756]",252,756,0.0029297429632626,0.3743792937565691
+2005-03-23,WTI-DXY spread (OLS residual),True,multiscale localised pruning,"[252, 504, 756]",504,756,0.0,3.732876136432368
+2005-05-27,WTI-DXY spread (OLS residual),True,multiscale bottom-up,"[252, 504, 756]",756,756,0.0,3.7714933930637584
+2005-06-10,WTI-DXY spread (OLS residual),True,multiscale localised pruning,"[252, 504, 756]",756,252,0.0,4.6700808948800825
+2014-11-26,WTI-DXY spread (OLS residual),True,multiscale bottom-up,"[252, 504, 756]",756,756,0.0,3.0878278616725288
+2014-11-26,WTI-DXY spread (OLS residual),True,multiscale localised pruning,"[252, 504, 756]",504,756,0.0,3.2369471581138614

@@ -1,0 +1,515 @@
+scenario,method,position,date,G_left,G_right,p_value,jump,lrv_ratio,bandwidths,valid_assumptions
+C: WTI absolute log return (%),single G=126,2011,2008-09-12,126,126,1.6730760110661436e-07,1.1076340608776218,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=126,2156,2009-04-13,126,126,9.046531131984281e-07,1.0320413215195237,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=126,3548,2014-10-21,126,126,4.731885772102373e-08,1.1642003719212477,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=252,1931,2008-05-20,252,252,2.423922995653527e-08,0.8780682049640741,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=252,2246,2009-08-19,252,252,3.564347483830943e-08,0.8646212726115404,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=252,3564,2014-11-12,252,252,3.481368526792039e-10,1.026040302817981,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=252,4080,2016-12-02,252,252,6.637893252836591e-07,0.7626377730880992,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),single G=252,6398,2026-02-26,252,252,1.8107391700494802e-06,0.7276414848728604,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale bottom-up,2011,2008-09-12,126,126,1.6730760110661436e-07,1.1076340608776218,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale bottom-up,2156,2009-04-13,126,126,9.046531131984281e-07,1.0320413215195237,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale bottom-up,3548,2014-10-21,126,126,4.731885772102373e-08,1.1642003719212477,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale bottom-up,4080,2016-12-02,252,252,6.637893252836591e-07,0.7626377730880992,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale bottom-up,6398,2026-02-26,252,252,1.8107391700494802e-06,0.7276414848728604,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,2011,2008-09-12,126,126,1.6730760110661436e-07,1.1076340608776216,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,2156,2009-04-13,126,126,9.046531131984281e-07,1.0320413215195239,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,2271,2009-09-24,252,126,1.2874305977961242e-06,0.8703388542883678,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,3564,2014-11-12,252,252,3.481368526792039e-10,1.0260403028179808,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,3573,2014-11-25,126,63,4.79804574737841e-07,1.2595715935185843,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,4080,2016-12-02,252,252,6.637893252836591e-07,0.7626377730880993,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,4891,2020-02-26,252,63,6.4368130492376e-07,1.1313866535158297,3.43640796685271,"[63, 126, 252]",True
+C: WTI absolute log return (%),multiscale localised pruning,6398,2026-02-26,252,252,1.8107391700494802e-06,0.7276414848728604,3.43640796685271,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=126,3523,2014-09-16,126,126,2.722073052408014e-06,0.9827008258269112,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=126,4887,2020-02-20,126,126,6.199489555869242e-05,0.8427015317151132,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,1476,2006-07-28,252,252,0.00021767906898761957,0.5606193999820996,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,1882,2008-03-11,252,252,3.14315458882497e-07,0.7887079454867612,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,2256,2009-09-02,252,252,0.00019771668814572152,0.563974096845159,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,2915,2012-04-16,252,252,0.00011462511343363069,0.5829873708790347,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,3528,2014-09-23,252,252,8.948116581031229e-09,0.9128204901519408,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,4886,2020-02-19,252,252,0.00012913207970144391,0.5788313051724044,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,5360,2022-01-06,252,252,5.392986243357711e-06,0.6895819335564024,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),single G=252,5680,2023-04-18,252,252,0.0001282345245138261,0.5790745602695738,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,1476,2006-07-28,252,252,0.00021767906898761957,0.5606193999820996,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,1882,2008-03-11,252,252,3.14315458882497e-07,0.7887079454867612,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,2256,2009-09-02,252,252,0.00019771668814572152,0.563974096845159,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,2915,2012-04-16,252,252,0.00011462511343363069,0.5829873708790347,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,3523,2014-09-16,126,126,2.722073052408014e-06,0.9827008258269112,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,4887,2020-02-20,126,126,6.199489555869242e-05,0.8427015317151132,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,5360,2022-01-06,252,252,5.392986243357711e-06,0.6895819335564024,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale bottom-up,5680,2023-04-18,252,252,0.0001282345245138261,0.5790745602695738,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,1476,2006-07-28,252,252,0.00021767906898761957,0.5606193999820996,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,1761,2007-09-17,126,252,0.00015077221585735323,0.6855782572089202,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,2001,2008-08-28,252,126,1.4247268545597436e-05,0.7770925870502562,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,2256,2009-09-02,252,252,0.00019771668814572152,0.563974096845159,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,2915,2012-04-16,252,252,0.00011462511343363069,0.5829873708790347,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,3262,2013-09-03,126,252,8.194073484668607e-05,0.7092322381373244,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,3511,2014-08-28,126,252,5.824034809975842e-09,1.079738919263186,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,5391,2022-02-22,252,126,9.434316146494925e-05,0.70376494841365,2.1040785487579035,"[63, 126, 252]",True
+D: DXY absolute log return (%),multiscale localised pruning,5680,2023-04-18,252,252,0.0001282345245138261,0.5790745602695739,2.1040785487579035,"[63, 126, 252]",True
+"E2: WTI x DXY standardised returns, multi-year bandwidths",single G=756,1689,2007-09-04,756,756,0.0007505155593857671,0.3075750982294562,1.4646960965492528,"[252, 504, 756]",True
+"E2: WTI x DXY standardised returns, multi-year bandwidths",multiscale bottom-up,1689,2007-09-04,756,756,0.0007505155593857671,0.3075750982294562,1.4646960965492528,"[252, 504, 756]",True
+"E2: WTI x DXY standardised returns, multi-year bandwidths",multiscale localised pruning,5677,2023-07-14,252,756,0.0029297429632626493,0.37437929375656914,1.4646960965492528,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",single G=756,1185,2005-05-27,756,756,0.0,3.7714933930637584,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",single G=756,3575,2014-11-26,756,756,0.0,3.0878278616725288,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",multiscale bottom-up,1185,2005-05-27,756,756,0.0,3.7714933930637584,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",multiscale bottom-up,3575,2014-11-26,756,756,0.0,3.0878278616725288,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",multiscale localised pruning,1139,2005-03-23,504,756,0.0,3.7328761364323677,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",multiscale localised pruning,1194,2005-06-10,756,252,0.0,4.6700808948800825,202.52749848350666,"[252, 504, 756]",True
+"F2: log-level OLS residual, multi-year bandwidths",multiscale localised pruning,3575,2014-11-26,504,756,0.0,3.2369471581138614,202.52749848350666,"[252, 504, 756]",True
+G: log WTI level (reference only),single G=63,70,2000-12-04,63,63,0.0,3.081995677846574,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,118,2001-02-13,63,63,1.9787193976994466e-05,1.2517822133679477,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,267,2001-09-21,63,63,0.0,4.360123922428556,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,376,2002-03-04,63,63,0.0,4.860377646870724,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,482,2002-08-05,63,63,2.0298207559221737e-12,2.192047678806189,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,573,2002-12-13,63,63,0.0,3.022606575074263,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,636,2003-03-18,63,63,3.774758283725532e-15,2.558576463975029,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,698,2003-06-16,63,63,5.5388463689132195e-05,1.191638766584654,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,751,2003-08-29,63,63,0.011277711026118742,0.8806919472114851,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,834,2003-12-31,63,63,0.0,2.9704149050209017,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,916,2004-04-30,63,63,2.3292479056635784e-13,2.3185524838465423,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,975,2004-07-27,63,63,2.220446049250313e-16,2.7318564596165213,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1052,2004-11-12,63,63,0.020201568778176915,0.8463680324480738,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1114,2005-02-15,63,63,1.1102230246251565e-16,2.7725334662635057,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1199,2005-06-17,63,63,0.0,3.051679799950149,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1284,2005-10-18,63,63,1.1222783142805781e-06,1.4194530292598173,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1337,2006-01-05,63,63,1.7118817730032987e-07,1.5293189275987717,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1399,2006-04-05,63,63,0.0,3.2100294562538907,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1506,2006-09-08,63,63,0.0,5.208409551235374,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1642,2007-03-27,63,63,4.4297898682543746e-14,2.415526464508878,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1700,2007-06-19,63,63,0.0,3.5801976209990056,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1781,2007-10-12,63,63,0.0,4.20014317453738,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,1906,2008-04-14,63,63,0.0,3.5182096260237508,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2034,2008-10-14,63,63,0.0,4.22196241743187,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2183,2009-05-19,63,63,0.0,3.4963537303514434,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2234,2009-07-31,63,63,2.483338157333037e-08,1.6421191854541763,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2285,2009-10-13,63,63,3.3306690738754696e-15,2.5664160601452193,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2368,2010-02-11,63,63,6.990262568784544e-08,1.5816508608557311,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2429,2010-05-11,63,63,2.884088967647358e-09,1.7679141977298791,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2528,2010-09-30,63,63,0.0,2.9793539442558568,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2627,2011-02-22,63,63,0.0,4.103003924896993,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2705,2011-06-14,63,63,3.2529534621517087e-14,2.43358549200329,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2740,2011-08-03,63,63,0.0,3.27712020104924,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2803,2011-11-01,63,63,0.0,3.8181670521010735,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2868,2012-02-06,63,63,2.844169344484726e-12,2.1723370736808985,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2935,2012-05-11,63,63,0.0,4.314326206115079,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,2994,2012-08-06,63,63,2.0243168198152972e-05,1.2504510621954696,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3042,2012-10-12,63,63,5.283908189879227e-07,1.4634659346738716,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3094,2012-12-31,63,63,3.3306690738754696e-16,2.698303581017407,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3219,2013-07-01,63,63,0.0,4.737436765059184,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3296,2013-10-18,63,63,0.0,4.0578658014896005,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3371,2014-02-06,63,63,2.220446049250313e-16,2.720737982900546,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3410,2014-04-03,63,63,4.708487177929044e-08,1.604738901671284,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3501,2014-08-13,63,63,1.1102230246251565e-16,2.7868200072422202,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3581,2014-12-05,63,63,0.0,5.146919349547676,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3662,2015-04-06,63,63,0.0,3.6785319218720196,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3732,2015-07-15,63,63,0.0,4.378508615377928,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3832,2015-12-04,63,63,0.0,3.837753574647687,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,3916,2016-04-07,63,63,0.0,3.4225673774034266,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4039,2016-09-30,63,63,1.9235167902920125e-09,1.7915808193706337,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4079,2016-11-30,63,63,0.0,3.0233384942839017,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4144,2017-03-07,63,63,1.2534417948018017e-13,2.354734202284266,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4177,2017-04-24,63,63,1.6231460620019789e-12,2.205108686423339,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4307,2017-10-26,63,63,0.0,3.6995907085646267,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4347,2017-12-22,63,63,0.0,3.124413101761406,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4418,2018-04-09,63,63,3.3306690738754696e-15,2.567292803890749,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4570,2018-11-12,63,63,0.0,4.860869430804488,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4640,2019-02-26,63,63,0.0,3.019481024504232,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4704,2019-05-29,63,63,9.820144697414435e-12,2.0999347424718002,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4806,2019-10-22,63,63,5.387601987871804e-07,1.4623304163106081,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4898,2020-03-05,63,63,0.0,3.6163128412832855,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,4962,2020-06-08,63,63,1.3788969965844444e-13,2.349177988809066,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5108,2021-01-05,63,63,0.0,3.6974027428582517,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5202,2021-05-20,63,63,0.0,2.9563234357918953,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5270,2021-08-26,63,63,1.0201486688732331e-07,1.5595640541849183,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5380,2022-02-02,63,63,0.0,3.3630981956305033,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5502,2022-07-29,63,63,0.0,3.363870107507705,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5579,2022-11-16,63,63,0.0,2.8068534344550704,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5683,2023-04-19,63,63,8.356664132236347e-06,1.302146345457095,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5750,2023-07-26,63,63,0.0,3.8034546588330844,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5822,2023-11-06,63,63,0.0,3.5376380053519774,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,5891,2024-02-15,63,63,3.3306690738754696e-16,2.7045292693172835,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6026,2024-08-29,63,63,0.0,2.859936182789989,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6154,2025-03-05,63,63,1.3988810110276972e-14,2.482950731177874,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6218,2025-06-05,63,63,0.04532184646659354,0.7984017067199375,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6298,2025-09-30,63,63,0.0,3.185585275860791,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6404,2026-03-04,63,63,0.0,6.68733816246579,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6468,2026-06-04,63,63,3.597122599785507e-14,2.427749000036126,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=63,6528,2026-08-31,63,63,4.775692952208033e-09,1.7384470371693361,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,70,2000-12-04,126,126,0.0,2.431511354131241,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,267,2001-09-21,126,126,0.0,3.8490295682842577,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,393,2002-03-27,126,126,0.0,3.3750301705171517,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,486,2002-08-09,126,126,3.730349362740526e-14,1.793567878057382,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,573,2002-12-13,126,126,1.591762277541875e-10,1.4192377906701994,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,834,2003-12-31,126,126,0.0,3.2617249261243866,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,975,2004-07-27,126,126,0.0,3.1219476591302215,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,1198,2005-06-16,126,126,0.0,2.997321446245177,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,1389,2006-03-22,126,126,0.0,2.725563365923559,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,1513,2006-09-19,126,126,0.0,3.599184427504957,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,1756,2007-09-07,126,126,0.0,3.9034018426936288,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,1878,2008-03-04,126,126,0.0,3.4601626893597035,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2034,2008-10-14,126,126,0.0,5.513743620161013,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2183,2009-05-19,126,126,0.0,3.76101531245415,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2289,2009-10-19,126,126,0.0,2.112088883015182,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2571,2010-12-01,126,126,0.0,2.965013364223924,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2737,2011-07-29,126,126,5.567606936596192e-07,1.0537715496739037,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2809,2011-11-09,126,126,4.440892098500626e-15,1.8886691221091616,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,2936,2012-05-14,126,126,0.0,2.7334438772812883,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3178,2013-05-02,126,126,0.0,2.241098773397107,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3304,2013-10-30,126,126,0.0005175410372944,0.747645710840439,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3377,2014-02-14,126,126,0.0037194937400780725,0.6592401818205581,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3575,2014-11-26,126,126,0.0,5.102496206120006,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3798,2015-10-16,126,126,0.0,2.375802464314243,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,3938,2016-05-09,126,126,0.0,2.291617708990905,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4078,2016-11-29,126,126,1.63202784619898e-14,1.8305127812505633,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4173,2017-04-18,126,126,6.3844978859251e-07,1.0476397072064918,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4308,2017-10-27,126,126,0.0,4.24740558460683,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4419,2018-04-10,126,126,0.0,2.615702753550064,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4562,2018-10-31,126,126,0.0,2.8814085802087335,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,4893,2020-02-27,126,126,0.0,2.3634336836737067,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,5108,2021-01-05,126,126,0.0,4.596204962450501,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,5374,2022-01-25,126,126,0.0,3.8268643850069184,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,5524,2022-08-30,126,126,0.0,3.266781688939291,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,5736,2023-07-06,126,126,3.3506427632445934e-07,1.0765155879858073,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,6017,2024-08-16,126,126,0.0,2.9030634804210282,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,6175,2025-04-03,126,126,0.0,2.2282543742264553,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,6258,2025-08-04,126,126,4.8117065887254284e-12,1.5759497396076314,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,6402,2026-03-02,126,126,0.0,3.996295285877709,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=126,6517,2026-08-14,126,126,1.6022711869290163e-05,0.9032995763105244,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,251,2001-08-23,252,252,0.0,1.7773095162766988,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,489,2002-08-14,252,252,0.0,2.048555004223018,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,965,2004-07-13,252,252,0.0,3.5893980811227757,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,1198,2005-06-16,252,252,0.0,3.16462640222456,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,1774,2007-10-03,252,252,0.0,3.8006299459508317,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,2033,2008-10-13,252,252,0.0,3.4108871456451495,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,2286,2009-10-14,252,252,0.0,2.0293011078419436,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,2570,2010-11-30,252,252,0.0,2.5227949564184042,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,2931,2012-05-07,252,252,2.8969914467324998e-08,0.8718330308563128,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,3220,2013-07-02,252,252,0.0,2.1971964131919437,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,3575,2014-11-26,252,252,0.0,5.8839071089181365,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,4037,2016-09-28,252,252,1.1102230246251565e-16,1.545694936111642,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,4313,2017-11-03,252,252,0.0,4.055090135807968,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,4575,2018-11-19,252,252,0.0,2.1253529163630036,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,4873,2020-01-29,252,252,0.0,1.9472542606066963,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,5198,2021-05-14,252,252,0.0,2.965209775989699,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,5358,2021-12-31,252,252,0.0,2.556354381659304,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,5610,2023-01-03,252,252,0.0,1.7774723289472545,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,6147,2025-02-24,252,252,0.0,2.77717029593525,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),single G=252,6404,2026-03-04,252,252,0.0,2.0817369540510247,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,70,2000-12-04,63,63,0.0,3.081995677846574,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,118,2001-02-13,63,63,1.9787193976994466e-05,1.2517822133679477,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,267,2001-09-21,63,63,0.0,4.360123922428556,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,376,2002-03-04,63,63,0.0,4.860377646870724,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,482,2002-08-05,63,63,2.0298207559221737e-12,2.192047678806189,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,573,2002-12-13,63,63,0.0,3.022606575074263,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,636,2003-03-18,63,63,3.774758283725532e-15,2.558576463975029,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,698,2003-06-16,63,63,5.5388463689132195e-05,1.191638766584654,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,751,2003-08-29,63,63,0.011277711026118742,0.8806919472114851,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,834,2003-12-31,63,63,0.0,2.9704149050209017,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,916,2004-04-30,63,63,2.3292479056635784e-13,2.3185524838465423,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,975,2004-07-27,63,63,2.220446049250313e-16,2.7318564596165213,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1052,2004-11-12,63,63,0.020201568778176915,0.8463680324480738,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1114,2005-02-15,63,63,1.1102230246251565e-16,2.7725334662635057,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1199,2005-06-17,63,63,0.0,3.051679799950149,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1284,2005-10-18,63,63,1.1222783142805781e-06,1.4194530292598173,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1337,2006-01-05,63,63,1.7118817730032987e-07,1.5293189275987717,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1399,2006-04-05,63,63,0.0,3.2100294562538907,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1506,2006-09-08,63,63,0.0,5.208409551235374,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1642,2007-03-27,63,63,4.4297898682543746e-14,2.415526464508878,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1700,2007-06-19,63,63,0.0,3.5801976209990056,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1781,2007-10-12,63,63,0.0,4.20014317453738,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,1906,2008-04-14,63,63,0.0,3.5182096260237508,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2034,2008-10-14,63,63,0.0,4.22196241743187,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2183,2009-05-19,63,63,0.0,3.4963537303514434,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2234,2009-07-31,63,63,2.483338157333037e-08,1.6421191854541763,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2285,2009-10-13,63,63,3.3306690738754696e-15,2.5664160601452193,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2368,2010-02-11,63,63,6.990262568784544e-08,1.5816508608557311,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2429,2010-05-11,63,63,2.884088967647358e-09,1.7679141977298791,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2528,2010-09-30,63,63,0.0,2.9793539442558568,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2627,2011-02-22,63,63,0.0,4.103003924896993,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2705,2011-06-14,63,63,3.2529534621517087e-14,2.43358549200329,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2740,2011-08-03,63,63,0.0,3.27712020104924,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2803,2011-11-01,63,63,0.0,3.8181670521010735,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2868,2012-02-06,63,63,2.844169344484726e-12,2.1723370736808985,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2935,2012-05-11,63,63,0.0,4.314326206115079,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,2994,2012-08-06,63,63,2.0243168198152972e-05,1.2504510621954696,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3042,2012-10-12,63,63,5.283908189879227e-07,1.4634659346738716,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3094,2012-12-31,63,63,3.3306690738754696e-16,2.698303581017407,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3219,2013-07-01,63,63,0.0,4.737436765059184,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3296,2013-10-18,63,63,0.0,4.0578658014896005,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3371,2014-02-06,63,63,2.220446049250313e-16,2.720737982900546,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3410,2014-04-03,63,63,4.708487177929044e-08,1.604738901671284,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3501,2014-08-13,63,63,1.1102230246251565e-16,2.7868200072422202,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3581,2014-12-05,63,63,0.0,5.146919349547676,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3662,2015-04-06,63,63,0.0,3.6785319218720196,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3732,2015-07-15,63,63,0.0,4.378508615377928,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3832,2015-12-04,63,63,0.0,3.837753574647687,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,3916,2016-04-07,63,63,0.0,3.4225673774034266,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4039,2016-09-30,63,63,1.9235167902920125e-09,1.7915808193706337,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4079,2016-11-30,63,63,0.0,3.0233384942839017,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4144,2017-03-07,63,63,1.2534417948018017e-13,2.354734202284266,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4177,2017-04-24,63,63,1.6231460620019789e-12,2.205108686423339,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4307,2017-10-26,63,63,0.0,3.6995907085646267,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4347,2017-12-22,63,63,0.0,3.124413101761406,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4418,2018-04-09,63,63,3.3306690738754696e-15,2.567292803890749,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4570,2018-11-12,63,63,0.0,4.860869430804488,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4640,2019-02-26,63,63,0.0,3.019481024504232,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4704,2019-05-29,63,63,9.820144697414435e-12,2.0999347424718002,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4806,2019-10-22,63,63,5.387601987871804e-07,1.4623304163106081,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4898,2020-03-05,63,63,0.0,3.6163128412832855,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,4962,2020-06-08,63,63,1.3788969965844444e-13,2.349177988809066,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5108,2021-01-05,63,63,0.0,3.6974027428582517,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5202,2021-05-20,63,63,0.0,2.9563234357918953,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5270,2021-08-26,63,63,1.0201486688732331e-07,1.5595640541849183,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5380,2022-02-02,63,63,0.0,3.3630981956305033,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5502,2022-07-29,63,63,0.0,3.363870107507705,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5579,2022-11-16,63,63,0.0,2.8068534344550704,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5683,2023-04-19,63,63,8.356664132236347e-06,1.302146345457095,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5750,2023-07-26,63,63,0.0,3.8034546588330844,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5822,2023-11-06,63,63,0.0,3.5376380053519774,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,5891,2024-02-15,63,63,3.3306690738754696e-16,2.7045292693172835,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6026,2024-08-29,63,63,0.0,2.859936182789989,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6154,2025-03-05,63,63,1.3988810110276972e-14,2.482950731177874,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6218,2025-06-05,63,63,0.04532184646659354,0.7984017067199375,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6298,2025-09-30,63,63,0.0,3.185585275860791,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6404,2026-03-04,63,63,0.0,6.68733816246579,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6468,2026-06-04,63,63,3.597122599785507e-14,2.427749000036126,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale bottom-up,6528,2026-08-31,63,63,4.775692952208033e-09,1.7384470371693361,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,267,2001-09-21,63,63,0.0,4.360123922428556,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,376,2002-03-04,63,63,0.0,4.860377646870724,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,884,2004-03-16,252,126,0.0,3.1404397864974274,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,981,2004-08-04,252,63,0.0,3.2525532760024216,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,1198,2005-06-16,63,126,0.0,3.039020047094347,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,1757,2007-09-10,63,126,0.0,3.846548738333752,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,1878,2008-03-04,63,126,0.0,3.473424099892993,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,2027,2008-10-03,126,252,0.0,4.250831356955445,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,2057,2008-11-14,252,63,0.0,5.199636219652551,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,2170,2009-04-30,63,252,0.0,4.144724900680146,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,2570,2010-11-30,63,126,0.0,2.595266039395227,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,3575,2014-11-26,63,126,0.0,4.841176598305097,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,3812,2015-11-05,63,126,5.906386491005833e-13,1.948116299921585,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,3832,2015-12-04,63,63,0.0,3.837753574647687,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,3916,2016-04-07,63,63,0.0,3.4225673774034266,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,4308,2017-10-27,126,63,0.0,3.8135940403813917,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,4570,2018-11-12,63,63,0.0,4.860869430804488,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,4898,2020-03-05,63,63,0.0,3.6163128412832855,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,4899,2020-03-06,126,63,0.0,3.7158981656069545,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,4962,2020-06-08,63,63,1.3788969965844444e-13,2.3491779888090654,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,5110,2021-01-07,126,63,0.0,4.445463408705682,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,5374,2022-01-25,126,126,0.0,3.8268643850069184,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,5524,2022-08-30,126,126,0.0,3.2667816889392904,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,6147,2025-02-24,252,252,0.0,2.7771702959352504,1.0,"[63, 126, 252]",False
+G: log WTI level (reference only),multiscale localised pruning,6402,2026-03-02,126,126,0.0,3.996295285877709,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,75,2000-12-11,63,63,0.0,3.0346122283472803,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,139,2001-03-15,63,63,0.0,3.545772501596095,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,240,2001-08-08,63,63,0.0,3.628670069100536,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,303,2001-11-12,63,63,8.881784197001252e-16,2.644826844101494,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,343,2002-01-14,63,63,0.0,2.8418150787986627,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,435,2002-05-28,63,63,0.0,4.102527554707286,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,580,2002-12-24,63,63,0.0,4.404946273192187,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,665,2003-04-29,63,63,0.0,4.5273534257910235,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,768,2003-09-24,63,63,0.0,3.2182283402907728,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,817,2003-12-04,63,63,0.0,3.65060506744974,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,889,2004-03-23,63,63,2.353672812205332e-14,2.4526033038824866,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,959,2004-07-02,63,63,2.9489148943850907e-06,1.3630067415685594,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1037,2004-10-22,63,63,0.0,4.804410382636004,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1174,2005-05-12,63,63,0.0,4.204812262814222,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1277,2005-10-07,63,63,1.078470646120877e-12,2.2289972801318,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1335,2006-01-03,63,63,0.0003592687834622632,1.0823864673495378,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1412,2006-04-25,63,63,0.0,4.817587977307932,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1558,2006-11-21,63,63,4.96269692007445e-13,2.2743484842251425,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1636,2007-03-19,63,63,0.0,3.5540096586864998,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1707,2007-06-28,63,63,5.218048215738236e-15,2.5407163298028075,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1764,2007-09-19,63,63,0.0,3.8559871426239245,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1874,2008-02-27,63,63,0.0,5.199424416796565,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,1987,2008-08-07,63,63,0.0,3.1188372220643865,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2023,2008-09-29,63,63,0.0,3.2929063665179625,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2095,2009-01-12,63,63,0.03146391726288045,0.8201432661817071,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2175,2009-05-07,63,63,0.0,4.085558831763827,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2259,2009-09-04,63,63,0.0,4.019634204721419,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2355,2010-01-25,63,63,0.0,4.051932938187197,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2418,2010-04-26,63,63,0.0,3.3560691318241775,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2520,2010-09-20,63,63,0.0,3.1617061713652315,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2628,2011-02-23,63,63,0.0,3.3510672076460786,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2764,2011-09-07,63,63,0.0,3.4542241968533216,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2817,2011-11-21,63,63,1.34781075189494e-13,2.3504980178021317,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,2936,2012-05-14,63,63,0.0,5.203088326190624,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3014,2012-09-04,63,63,0.0,3.6725048907388422,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3128,2013-02-20,63,63,0.0,4.989132820754077,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3273,2013-09-17,63,63,3.552713678800501e-15,2.5625067981600385,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3375,2014-02-12,63,63,1.4988010832439613e-13,2.344309476510959,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3444,2014-05-22,63,63,2.464026760407023e-10,1.911647734830813,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3515,2014-09-03,63,63,0.0,4.466252738093045,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3599,2015-01-02,63,63,0.0,3.9459532829587816,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3810,2015-11-03,63,63,0.0,3.348058268257552,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3900,2016-03-15,63,63,0.0,3.5760853623762667,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,3971,2016-06-24,63,63,1.761942813871542e-10,1.9312434171955453,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4066,2016-11-09,63,63,0.0,3.935775544429314,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4193,2017-05-16,63,63,0.0,3.3497234064294914,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4235,2017-07-17,63,63,0.0,4.255045275198809,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4359,2018-01-11,63,63,0.0,5.47076240033194,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4433,2018-04-30,63,63,0.0,5.799591449480909,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4552,2018-10-17,63,63,2.2315482794965646e-14,2.455684967976339,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4657,2019-03-21,63,63,8.555378627761456e-12,2.1079905780677337,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4741,2019-07-22,63,63,2.9470414997234684e-10,1.9011887649687054,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4803,2019-10-17,63,63,2.3413004213157507e-07,1.5110242385829706,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4882,2020-02-11,63,63,2.0523063881672243e-07,1.5187217211308834,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,4991,2020-07-20,63,63,0.0,4.174667627129848,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5084,2020-11-30,63,63,0.0,4.847972864819037,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5145,2021-03-01,63,63,0.0003219930241540325,1.088787850238296,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5237,2021-07-12,63,63,1.887379141862766e-15,2.6012668527860576,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5322,2021-11-09,63,63,0.0,4.391377578247119,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5422,2022-04-04,63,63,0.0,3.773128826115737,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5468,2022-06-09,63,63,0.0,2.9631894659221953,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5512,2022-08-12,63,63,0.0,2.9338058295557534,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5583,2022-11-22,63,63,0.0,3.902612625619142,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5661,2023-03-17,63,63,0.00042209575799079246,1.0729682399981204,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5770,2023-08-23,63,63,1.1102230246251565e-15,2.631643675208922,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5831,2023-11-17,63,63,1.1324274851176597e-13,2.3606916812834844,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5927,2024-04-09,63,63,4.107825191113079e-15,2.554970183750542,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,5999,2024-07-23,63,63,0.0,2.8934679733903717,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6076,2024-11-08,63,63,0.0,4.224001014509528,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6179,2025-04-09,63,63,0.0,4.09875923520154,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6302,2025-10-06,63,63,4.456672852981569e-08,1.6079503666961468,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6355,2025-12-19,63,63,0.028945560519231472,0.8250930995564343,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6409,2026-03-11,63,63,1.2624884732970187e-05,1.2780380763585293,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6456,2026-05-18,63,63,3.893065869675638e-10,1.8849226028293926,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=63,6546,2026-09-25,63,63,1.3997282000133282e-08,1.6756176448936342,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,136,2001-03-12,126,126,1.2888654588039117e-09,1.3255630418446462,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,287,2001-10-19,126,126,0.02600738248227985,0.571631020692514,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,435,2002-05-28,126,126,0.0,5.32572924557916,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,590,2003-01-09,126,126,0.0,3.482823094533533,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,665,2003-04-29,126,126,0.0,2.9450229422085585,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,803,2003-11-12,126,126,0.0,3.1319710421480442,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1035,2004-10-20,126,126,0.0,4.755467825316116,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1174,2005-05-12,126,126,0.0,4.441558626793781,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1410,2006-04-21,126,126,0.0,4.950636780416086,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1559,2006-11-22,126,126,0.0,2.474044290805208,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1634,2007-03-15,126,126,0.0,3.001690898674091,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1757,2007-09-10,126,126,0.0,4.168511691748008,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,1866,2008-02-14,126,126,0.0,2.930436511426869,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2023,2008-09-29,126,126,0.0,4.46484745980311,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2183,2009-05-19,126,126,0.0,3.4313304177991824,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2362,2010-02-03,126,126,0.0,3.033130662449989,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2521,2010-09-21,126,126,0.0,2.7902249445461993,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2640,2011-03-11,126,126,0.0,3.2186031426471957,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,2771,2011-09-16,126,126,0.0,3.398012278482432,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3013,2012-08-31,126,126,9.331400909862175e-06,0.9275132119226931,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3131,2013-02-25,126,126,0.0,2.9722570767040226,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3271,2013-09-13,126,126,0.0,2.7703695882194617,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3598,2014-12-31,126,126,0.0,4.0266420050026115,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3801,2015-10-21,126,126,1.0056183441520261e-07,1.1304204060455665,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,3901,2016-03-16,126,126,6.217248937900877e-15,1.8736764970500448,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4047,2016-10-13,126,126,0.0,4.247068901369333,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4222,2017-06-27,126,126,0.0,4.367781784519527,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4464,2018-06-13,126,126,0.0,3.013133903012848,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4559,2018-10-26,126,126,0.0,2.5187008563528206,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4663,2019-03-29,126,126,3.552713678800501e-15,1.8990688513577771,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4828,2019-11-21,126,126,0.0011829282481407022,0.7106062178790779,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,4991,2020-07-20,126,126,0.0,4.065528960374803,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,5082,2020-11-25,126,126,0.0,2.459667639625699,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,5292,2021-09-28,126,126,0.0,3.142449322377859,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,5435,2022-04-22,126,126,0.0,3.822181737169466,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,5607,2022-12-28,126,126,0.0,2.5435424325152307,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,5777,2023-09-01,126,126,4.117473806353189e-09,1.2735425613376303,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,6053,2024-10-08,126,126,3.855101582406206e-08,1.1733628965446585,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,6179,2025-04-09,126,126,0.0,4.753708995545598,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,6468,2026-06-04,126,126,1.1102230246251565e-16,2.041072340580293,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=126,6543,2026-09-22,126,126,4.440892098500626e-16,1.9906177336209396,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,430,2002-05-20,252,252,0.0,3.461545219387361,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,571,2002-12-11,252,252,0.0,3.4289307713139947,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,1185,2005-05-27,252,252,1.1102230246251565e-15,1.4666999390044453,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,1422,2006-05-09,252,252,0.0,2.98822641741678,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,1755,2007-09-06,252,252,0.0,3.9827236580852885,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,2007,2008-09-05,252,252,0.0,2.7416576989933694,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,2242,2009-08-12,252,252,6.857495232770461e-07,0.7614900964010779,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,2601,2011-01-13,252,252,0.0,2.018251401537505,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,2830,2011-12-09,252,252,0.0,2.4223289267919936,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,3236,2013-07-25,252,252,2.074511236127563e-07,0.8031832855919963,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,3571,2014-11-20,252,252,0.0,5.281875538897176,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,3971,2016-06-24,252,252,2.103148766252616e-10,1.0435903309761407,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,4233,2017-07-13,252,252,0.0,2.925830356438375,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,4498,2018-08-01,252,252,0.0,2.72807151716351,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,4992,2020-07-21,252,252,0.0,4.958578007873102,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,5420,2022-03-31,252,252,0.0,3.9686468814139895,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,5677,2023-04-11,252,252,2.0142220513719167e-07,0.8042117404038449,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,5914,2024-03-20,252,252,2.6850696188684964e-07,0.7941870468145371,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),single G=252,6179,2025-04-09,252,252,0.0,3.6796813788673757,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,75,2000-12-11,63,63,0.0,3.0346122283472803,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,139,2001-03-15,63,63,0.0,3.545772501596095,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,240,2001-08-08,63,63,0.0,3.628670069100536,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,303,2001-11-12,63,63,8.881784197001252e-16,2.644826844101494,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,343,2002-01-14,63,63,0.0,2.8418150787986627,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,435,2002-05-28,63,63,0.0,4.102527554707286,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,580,2002-12-24,63,63,0.0,4.404946273192187,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,665,2003-04-29,63,63,0.0,4.5273534257910235,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,768,2003-09-24,63,63,0.0,3.2182283402907728,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,817,2003-12-04,63,63,0.0,3.65060506744974,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,889,2004-03-23,63,63,2.353672812205332e-14,2.4526033038824866,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,959,2004-07-02,63,63,2.9489148943850907e-06,1.3630067415685594,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1037,2004-10-22,63,63,0.0,4.804410382636004,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1174,2005-05-12,63,63,0.0,4.204812262814222,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1277,2005-10-07,63,63,1.078470646120877e-12,2.2289972801318,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1335,2006-01-03,63,63,0.0003592687834622632,1.0823864673495378,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1412,2006-04-25,63,63,0.0,4.817587977307932,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1558,2006-11-21,63,63,4.96269692007445e-13,2.2743484842251425,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1636,2007-03-19,63,63,0.0,3.5540096586864998,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1707,2007-06-28,63,63,5.218048215738236e-15,2.5407163298028075,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1764,2007-09-19,63,63,0.0,3.8559871426239245,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1874,2008-02-27,63,63,0.0,5.199424416796565,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,1987,2008-08-07,63,63,0.0,3.1188372220643865,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2023,2008-09-29,63,63,0.0,3.2929063665179625,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2095,2009-01-12,63,63,0.03146391726288045,0.8201432661817071,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2175,2009-05-07,63,63,0.0,4.085558831763827,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2259,2009-09-04,63,63,0.0,4.019634204721419,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2355,2010-01-25,63,63,0.0,4.051932938187197,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2418,2010-04-26,63,63,0.0,3.3560691318241775,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2520,2010-09-20,63,63,0.0,3.1617061713652315,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2628,2011-02-23,63,63,0.0,3.3510672076460786,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2764,2011-09-07,63,63,0.0,3.4542241968533216,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2817,2011-11-21,63,63,1.34781075189494e-13,2.3504980178021317,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,2936,2012-05-14,63,63,0.0,5.203088326190624,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3014,2012-09-04,63,63,0.0,3.6725048907388422,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3128,2013-02-20,63,63,0.0,4.989132820754077,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3273,2013-09-17,63,63,3.552713678800501e-15,2.5625067981600385,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3375,2014-02-12,63,63,1.4988010832439613e-13,2.344309476510959,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3444,2014-05-22,63,63,2.464026760407023e-10,1.911647734830813,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3515,2014-09-03,63,63,0.0,4.466252738093045,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3599,2015-01-02,63,63,0.0,3.9459532829587816,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3810,2015-11-03,63,63,0.0,3.348058268257552,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3900,2016-03-15,63,63,0.0,3.5760853623762667,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,3971,2016-06-24,63,63,1.761942813871542e-10,1.9312434171955453,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4066,2016-11-09,63,63,0.0,3.935775544429314,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4193,2017-05-16,63,63,0.0,3.3497234064294914,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4235,2017-07-17,63,63,0.0,4.255045275198809,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4359,2018-01-11,63,63,0.0,5.47076240033194,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4433,2018-04-30,63,63,0.0,5.799591449480909,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4552,2018-10-17,63,63,2.2315482794965646e-14,2.455684967976339,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4657,2019-03-21,63,63,8.555378627761456e-12,2.1079905780677337,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4741,2019-07-22,63,63,2.9470414997234684e-10,1.9011887649687054,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4803,2019-10-17,63,63,2.3413004213157507e-07,1.5110242385829706,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4882,2020-02-11,63,63,2.0523063881672243e-07,1.5187217211308834,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,4991,2020-07-20,63,63,0.0,4.174667627129848,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5084,2020-11-30,63,63,0.0,4.847972864819037,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5145,2021-03-01,63,63,0.0003219930241540325,1.088787850238296,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5237,2021-07-12,63,63,1.887379141862766e-15,2.6012668527860576,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5322,2021-11-09,63,63,0.0,4.391377578247119,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5422,2022-04-04,63,63,0.0,3.773128826115737,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5468,2022-06-09,63,63,0.0,2.9631894659221953,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5512,2022-08-12,63,63,0.0,2.9338058295557534,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5583,2022-11-22,63,63,0.0,3.902612625619142,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5661,2023-03-17,63,63,0.00042209575799079246,1.0729682399981204,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5770,2023-08-23,63,63,1.1102230246251565e-15,2.631643675208922,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5831,2023-11-17,63,63,1.1324274851176597e-13,2.3606916812834844,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5927,2024-04-09,63,63,4.107825191113079e-15,2.554970183750542,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,5999,2024-07-23,63,63,0.0,2.8934679733903717,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6076,2024-11-08,63,63,0.0,4.224001014509528,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6179,2025-04-09,63,63,0.0,4.09875923520154,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6302,2025-10-06,63,63,4.456672852981569e-08,1.6079503666961468,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6355,2025-12-19,63,63,0.028945560519231472,0.8250930995564343,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6409,2026-03-11,63,63,1.2624884732970187e-05,1.2780380763585293,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6456,2026-05-18,63,63,3.893065869675638e-10,1.8849226028293926,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale bottom-up,6546,2026-09-25,63,63,1.3997282000133282e-08,1.6756176448936342,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale localised pruning,571,2002-12-11,63,252,0.0,3.5838146330213734,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale localised pruning,1755,2007-09-06,63,252,0.0,3.5371661297907537,1.0,"[63, 126, 252]",False
+H: log DXY level (reference only),multiscale localised pruning,3559,2014-11-04,126,252,0.0,4.572874102918967,1.0,"[63, 126, 252]",False
